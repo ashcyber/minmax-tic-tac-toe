@@ -1,0 +1,6 @@
+* { padding: 0; margin: 0; }
+canvas { background: #2962FF; display: block; margin: 0 auto; border-radius: 20%}
+#myCanvas{
+	margin-top: 50px; 
+}
+
