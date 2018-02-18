@@ -495,10 +495,6 @@ $('#x').click(function() {
 	$('#reset').show(); 
 });
 
-$('#reset').click(function() {
-	document.location.reload(); 
-	$('#reset').hide(); 
-});
 
 
 
